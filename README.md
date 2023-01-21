@@ -1,2 +1,2 @@
 # tutorial for repository
-create a new repository
+create a new repository always
